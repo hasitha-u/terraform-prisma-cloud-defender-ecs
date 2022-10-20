@@ -1,4 +1,4 @@
-# Prisma Cloud Defender deployment on a ECS (EC2) Cluster
+# Example Prisma Cloud Defender deployment on ECS (EC2)
 
 Configuration in this directory creates:
 - AWS VPC and subnets
